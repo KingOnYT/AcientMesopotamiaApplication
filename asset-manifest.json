@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kevinmesopotamia/static/css/main.af7ccf45.css",
-    "main.js": "/kevinmesopotamia/static/js/main.8b59df4c.js",
+    "main.js": "/kevinmesopotamia/static/js/main.ee65d710.js",
     "static/media/fail.jpg": "/kevinmesopotamia/static/media/fail.adc6851c176b1f8430e8.jpg",
     "static/media/preists.jpg": "/kevinmesopotamia/static/media/preists.aa4ee4e4631211c205a8.jpg",
     "static/media/agr.jpg": "/kevinmesopotamia/static/media/agr.6a57562ae3084e040391.jpg",
@@ -24,10 +24,10 @@
     "static/media/as.jpg": "/kevinmesopotamia/static/media/as.8996711b3d43dc753991.jpg",
     "index.html": "/kevinmesopotamia/index.html",
     "main.af7ccf45.css.map": "/kevinmesopotamia/static/css/main.af7ccf45.css.map",
-    "main.8b59df4c.js.map": "/kevinmesopotamia/static/js/main.8b59df4c.js.map"
+    "main.ee65d710.js.map": "/kevinmesopotamia/static/js/main.ee65d710.js.map"
   },
   "entrypoints": [
     "static/css/main.af7ccf45.css",
-    "static/js/main.8b59df4c.js"
+    "static/js/main.ee65d710.js"
   ]
 }
